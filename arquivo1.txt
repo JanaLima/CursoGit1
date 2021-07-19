@@ -1,0 +1,4 @@
+Fazendo teste na branch NovaBranch
+Adicionando linhas
+Testando esta linha para ver como fica em caso de conflito.
+Teste de conflito 
