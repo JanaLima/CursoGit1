@@ -1,6 +1,6 @@
 Fazendo teste na branch NovaBranch
 Adicionando linhas
 Estou adicionando esta linha para mais um commit 
-Testando segundo commit
-Testando esta linha para ver como fica em caso de conflito.
-Teste de conflito 
+Estou trocando na master
+quero ver como ficou as outras duas 
+na verdade 3
