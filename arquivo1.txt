@@ -1,6 +1,6 @@
 Fazendo teste na branch NovaBranch
 Adicionando linhas
 Estou adicionando esta linha para mais um commit 
-Testando segundo commit
-Testando esta linha para ver como fica em caso de conflito.
-Teste de conflito 
+Quero saber se a alteração vai ocorrer mesmo
+sendo a mesma pasta 
+pois estou ecrevendo nas mesmas linhas, só que na novaBranch
